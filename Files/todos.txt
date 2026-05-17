@@ -1,5 +1,4 @@
-Single shadow account
-Skycoin enhancement
-API server migration project
-D1 Thales Tokenization
-
+SkyPay MIS merchant GL settlement automization
+Thales D1 Tokenization
+Single Shadow Account
+Skycoin Enhancement
